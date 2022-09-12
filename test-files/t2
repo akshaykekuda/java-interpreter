@@ -1,0 +1,16 @@
+int x=4;
+float y=2.; 
+print(y);
+y = y + 1.0;
+print(y);
+if(x>-3){
+    if (y < -3.){
+        y= y+1.;
+        print(y);
+        y = -y;
+        print(y);
+    }
+    print(y);
+}
+print(y);
+print(x);

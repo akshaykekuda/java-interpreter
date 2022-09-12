@@ -1,0 +1,11 @@
+int x = 2;
+int y = 0;
+if (x*y < -3){
+    x = x*y;
+
+}
+else{
+    x = x/y;
+}
+
+print(x);

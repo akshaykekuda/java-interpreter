@@ -1,0 +1,9 @@
+int z = -2;
+int x=0;
+int y = 2;
+while((y < z) && (x==0)){
+    z = 5;
+    print(z);
+}
+print(z);
+print(x);

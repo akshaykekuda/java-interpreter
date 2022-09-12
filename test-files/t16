@@ -1,0 +1,13 @@
+int x;
+int z = 2;
+if (z>2){
+    int y = 1;
+    if (1>2){
+        y = 2;
+    }
+    print(z);
+}
+else{
+    x=1;
+}
+print(y);

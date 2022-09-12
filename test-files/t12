@@ -1,0 +1,8 @@
+int x;
+x = 1;
+float y;
+y =2.;
+if (!((x< readint) && (y/readfloat < readfloat))) print x;
+while(x!=1 && x!=2){
+    x = 2;
+}
